@@ -1,0 +1,7 @@
+;codigo_pokedex;nome_pokemon;naturezas;imagem
+0;224;Octillery;['Water'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png
+1;831;Wooloo;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png
+2;303;Mawile;['Steel', 'Fairy'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png
+3;523;Zebstrika;['Electric'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png
+4;8;Wartortle;['Water'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+5;753;Fomantis;['Grass'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png

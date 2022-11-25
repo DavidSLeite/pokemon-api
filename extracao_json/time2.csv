@@ -1,0 +1,7 @@
+;codigo_pokedex;nome_pokemon;naturezas;imagem
+0;354;Banette;['Ghost'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png
+1;300;Skitty;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png
+2;122;Mr-Mime;['Psychic', 'Fairy'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png
+3;46;Paras;['Bug', 'Grass'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png
+4;70;Weepinbell;['Grass', 'Poison'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png
+5;60;Poliwag;['Water'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png
