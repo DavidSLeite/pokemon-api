@@ -1,3 +1,3 @@
 # Leia-me
 
-Este é um repositório foi feito com objetivo de auxiliar estudo de consumo em API com a linguagem de programação Python.
+Este é um repositório feito com objetivo de auxiliar estudo de consumo em API com a linguagem de programação Python.
